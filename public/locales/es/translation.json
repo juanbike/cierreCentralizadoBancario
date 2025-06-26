@@ -1,0 +1,309 @@
+{
+  "greeting": "¡Hola, mundo!",
+  "welcome": "Bienvenido a mi aplicación.",
+  "dashboard": {
+    "title": "Panel de Control",
+    "users": "Usuarios"
+  },
+  "footer": "Derechos reservados © {{year}}",
+
+  "tituloUnoHeroSection": "Revoluciona tus procesos de",
+  "tituloDosHeroSection": "Interconexión",
+  "tituloTresHeroSection": "con nuestro Cierre Centralizado",
+  "subtituloHeroSection": "Checkbank® ofrece tecnología de vanguardia para el procesamiento centralizado de grandes volúmenes de transacciones. Facilita la transferencia y compensación electrónica de fondos entre bancos, manejando cargas de trabajo intensivas y datos escalables. Sus sistemas de misión crítica exigen alto rendimiento bajo estándares internacionales e incluyen soluciones de pago innovadoras como ATM, Pago Móvil Interbancario (P2P) y Persona a Comercio (P2C/C2P), entre otras.",
+  "buttonChangeLanguage":"English",
+
+  "headerOneOne":"100% Seguro",
+  "headerOneTwo":"Informes en Tiempo Real",
+  "headerOneThree":"Multi-usuario",  
+
+  "headerTwoOne":"Solicitar Demo Gratuita",
+
+  "headerThreeOne":"Sin compromiso",
+  "headerThreeTwo":"Instalación en 30-60 días",
+  "headerThreeThree":"Soporte 24/7",
+
+  "headerFourOne":"70% Reducción de Tiempo",
+  "headerFourTwo":"99.9% Precisión de Informes",
+
+  "sectionTwoOne-------------": "----------------",
+  "titleSectionTwo": "¿Por qué es importante automatizar y centralizar  las operaciones y procesos  de los bancos interconectados?",
+  "subTitleSectionTwo": "Automatizar y centralizar las operaciones y procesos de los bancos interconectados es crucial porque garantiza una comunicación segura y confiable entre ellos. Esto, a su vez, facilita diversas actividades interbancarias esenciales como las transferencias de fondos, la compensación y la liquidación. Además, proporciona un marco estandarizado para la conectividad interbancaria, lo que es fundamental para el cumplimiento regulatorio.",
+
+  "columOneOneSectionTwo": "Problemas Actuales",
+
+  "columOneTwoSectionTwoTitle": "Pérdida de tiempo valioso",
+  "columOneTwoSectionTwoSubtitle": "Procesos manuales que consumen horas de trabajo especializado diariamente.",
+
+  "columOneThreeSectionTwoTitle": "Alto riesgo de error humano",
+  "columOneThreeSectionTwosubtitle": "Fallos frecuentes en el cierre centralizado bancario provocan errores en comisiones y malestar en bancos afiliados y clientes.",
+
+  "columOneFourSectionTwoTitle": "Dificultad para cumplir con regulaciones",
+  "columOneFourSectionTwoSubtitle": "Complejidad para generar reportes precisos que cumplan normativas locales e internacionales.",
+
+  "columFiveSectionTwoTitle": "Informes lentos e imprecisos",
+  "columFiveSectionTwoSubtitle": "Generación tardía de reportes que afecta la toma de decisiones estratégicas.",
+
+   "sectionTwoTwo-------------": "----------------",
+
+   "titleSectionTwoTwo": "Nuestra Solución",
+   
+   
+   "columTwoOneSectionTwoTitle": "Sistema de Conciliación Electrónica de Transacciones.",
+   "columTwoOneSectionTwoSubTile": "Garantiza la integridad y la consistencia de los datos financieros en todos los bancos afiliados y redes interconectadas.",
+
+
+   "columTwoTwoSectionTwoTitle": "Conciliación de transacciones en tiempo real o por lotes",
+   "columTwoTwoSectionTwoSubTile": "Garantiza una conciliación automática y exacta de las transacciones entre los bancos interconectados y las redes, identificando los posibles reclamos e optimizando la capacidad de compensación fondos y activos que garantiza la liquidez esté disponible cuando sea necesaria",
+
+   "columTwoThreeSectionTwoTitle": "Información financiera en tiempo real",
+   "columTwoThreeSectionTwoSubTile": "Garantiza una conciliación automática y exacta entre los bancos interconectados. La capacidad de liquidación fondos y activos que garantizar la liquidez esté disponible cuando sea necesaria.",
+   
+   "columTwoFourSectionTwoTitle": "Cumplimiento Regulatorio",
+   "columTwoFourSectionTwoSubTile": "Protocolos y formatos estandarizados, asegurando compatibilidad e interoperabilidad entre diferentes bancos y sistemas financieros.",
+
+   "columTwoFiveSectionTwoTitle": "Verificación constante de todas las transacciones",
+   "columTwoFiveSectionTwoSubTile": "Mantiene la exactitud financiera con validaciones y balances diarios. Minimizan el riesgo de errores o disputas, reduciendo aún más los costos potenciales derivados de tales incidentes.",
+
+   "columTwoSixSectionTwoTitle": "Fortalece la estabilidad y confianza general del sistema bancario nacional",
+   "columTwoSixSectionTwoSubTile": " Al fortalecer la estabilidad del sistema bancario nacional, se fomenta un ambiente propicio para la inversión extranjera, se estimula el crecimiento económico sostenido y se garantiza la protección de los ahorros de los ciudadanos.",
+
+   "columTwoSevenSectionTwoTitle": "El auge de las redes abiertas",
+   "columTwoSevenSectionTwoSubTile": " Sin infraestructura común que permite una comunicación segura y eficiente entre las instituciones participantes, independientemente de sus sistemas o protocolos individuales.",
+
+   "columTwoEightSectionTwoTitle": "Compatibilidad",
+   "columTwoEightSectionTwoSubTile": " No se emplea protocolos y formatos de mensajería estandarizados, no garantiza la compatibilidad e interoperabilidad entre las instituciones participantes.",
+
+   "columTwoNinetSectionTwoTitle": "Innovación",
+   "columTwoNineSectionTwoSubTile": "Integración con empresas de tecnología financiera. Diseñado para adaptarse a las crecientes necesidades de la industria financiera.",
+
+   "columTwoEightSectionTwoTitleCero": "",
+   "columTwoEightSectionTwoSubTileCero": " ",
+
+
+
+ "sectionTwoThree-------------": "----------------",
+
+  "sectionTwoThreeTitle": "Impacto Económico",
+  
+  "sectionTwoThreeSubtitleOne": "Costo anual promedio de   errores",
+  "sectionTwoThreeSubtitleTwo": "Ahorro semanal en procesos manuales",
+
+  "sectionTwoThreeTitletwo": "Beneficios Medibles",
+  
+  "sectionTwoThreeSubtitleOneTwo": "Promedios mensuales LBTR ",
+  "sectionTwoThreeSubtitleTwoTwo": "Reducción costos operativos",
+
+  "sectionTwoFour-------------": "----------------",
+
+  "titleSectionTwoFour": "Tecnología Probada en el Sector Bancario",
+  "subtitleSectionTwoFour": "Nuestra plataforma se encuentra instalada en la segunda red bancaria del país, con cinco (5) de los principales bancos interconectados. Su arquitectura soporta un creciente volumen de transacciones sin comprometer la velocidad y la confiabilidad de los datos, con potencia de procesamiento, alertas, trabajos exigentes con misión crítica y seguridad robusta.",
+
+
+  "keyFeactures------":"----------------",
+
+  "features": {
+    "title": "Características principales",
+    "subtitle": "Descubra las principales características que hacen que nuestra solución sea única y potente.",
+    "feature1": {
+      "title": "💾 Integración nativa con sistemas IBM Power I",
+      "description": "Funciona directamente en su infraestructura existente sin migración de datos ni cambios en su entorno actual."
+    },
+    "feature2": {
+      "title": "📋 Generación automática de informes detallados y exportables",
+      "description": "Informes completos en múltiples formatos (PDF, Excel, XML) compatibles con las regulaciones bancarias locales e internacionales."
+    },
+    "feature3": {
+      "title": "🛡️ Cumplimiento de la Normativa Bancaria y Auditorías",
+      "description": "Diseñado para cumplir con las regulaciones financieras, incluida la trazabilidad completa y registros de auditoría detallados."
+    },
+    "feature4": {
+      "title": "👥 Acceso seguro basado en roles para múltiples usuarios",
+      "description": "Sistema de permisos granular que permite definir roles específicos para diferentes niveles de acceso y responsabilidades."
+    },
+    "feature5": {
+      "title": "📊 Panel de control intuitivo con indicadores clave en tiempo real",
+      "description": "Monitoreo continuo de KPIs bancarios con alertas automáticas y visualización de datos en tiempo real para una toma de decisiones ágil."
+    },
+    "feature6": {
+      "title": "🔄 Interfaz fácil de usar para usuarios técnicos y no técnicos",
+      "description": "Diseño intuitivo que permite a cualquier usuario operar el sistema de forma eficiente, independientemente de su nivel técnico."
+    }
+  },
+
+  "Cutting-edgeTechnology------":"----------------",
+
+  "Cutting-edgetechnologyTitle":"Tecnología de Vanguardia",
+
+  "Cutting-edgetechnologyTitleOne":"Procesamiento en Tiempo Real",
+  "Cutting-edgetechnologySubTitleOne":"Actualización instantánea de datos y generación de reportes sin demoras",
+
+
+  "Cutting-edgetechnologyTitleTwo":"Backup Automático",
+  "Cutting-edgetechnologySubTitleTwo":"Respaldo continuo de información crítica con recuperación instantánea",
+
+  "Cutting-edgetechnologyTitleThree":"Escalabilidad Enterprise",
+  "Cutting-edgetechnologySubTitleThree":"Diseñado para crecer con su institución sin límites de transacciones",
+
+  "Cutting-edgetechnologyTitleFour":"APIs de Integración",
+  "Cutting-edgetechnologySubTitleFour":"Conectividad con sistemas de terceros y plataformas externas",
+
+  "Cutting-edgetechnologyTitleFive":"Implementación Sin Interrupciones",
+  "Cutting-edgetechnologySubTitleFive":"Nuestro equipo especializado garantiza una transición suave sin afectar sus operaciones diarias. Implementación completa en 30-60 días.",
+
+  "AnalyticsAvanced------":"----------------",
+
+  "AnalyticsAvancedTitle": "Analytics Avanzados",
+
+  "AnalyticsAvancedTitleOne":"Métricas en Vivo",
+  "AnalyticsAvancedSubTitleOne":"Monitoreo continuo de volúmenes, tiempos de procesamiento y tasas de error",
+
+  "AnalyticsAvancedTitleTwo":"Alertas Inteligentes",
+  "AnalyticsAvancedSubTitleTwo":"Notificaciones automáticas ante discrepancias o situaciones que requieren atención",
+
+  "AnalyticsAvancedTitleThree":"Reportes Personalizados",
+  "AnalyticsAvancedSubTitleThree":"Generación de informes específicos según las necesidades de cada departamento",
+
+  "Testimonial------":"----------------",
+  
+  "TestimonialTitleOne":"Desde que implementamos este sistema de cierre centralizado, logramos reducir en un",
+  "TestimonialTitleTwo":"70% el tiempo",
+   "TestimonialTitleThree":"destinado a estos procesos y mejoramos la",
+   "TestimonialTitleFour":"precisión de nuestros informes regulatorios",
+
+   "TestimonialSubTitleFive":"Gerente de Operaciones",
+    "TestimonialSubTitleSix":"Banco Regional S.A.",
+
+    "Result-----":"----------------",
+
+    "ResultTitle":"Resultados Obtenidos:",
+    "ResultOne":"Reducción de tiempo",
+    "ResultTwo":"Precisión de informes",
+    "ResultThree":"Ahorro anual",
+    "ResultFour":"Disponibilidad",
+
+    "ImplementationTitle":"Implementación Exitosa",
+    "ImplementationOne":"Caso de Éxito",
+    "ImplementationTwo":"Banco Regional S.A.",
+    "ImplementationThree":"150+ empleados",
+    "ImplementationFour":"50,000+ transacciones diarias",
+    "ImplementationFive":"Implementación: 45 días",
+    "ImplementationSix":"IROI: 6 meses",
+
+   "SuccessStories":"----------------", 
+   
+   "SuccessStoriesTitleOne":"Reducción de errores manuales",
+   "SuccessStoriesTitleOneTwo":"Banco Internacional Norte",
+
+   "SuccessStoriesTitleTwoOne":"Tiempo de implementación",
+   "SuccessStoriesTitleTwoOneTwo":"Banco Central Regional",
+
+   "SuccessStoriesTitleThreeOne":"Ahorro anual promedio",
+   "SuccessStoriesTitleThreeOneTwo":"Banco Empresarial Sur",
+   "Success30":"días",
+
+   "contact":"----------------",
+   "contactTitle": "Descubre cómo podemos ayudarte",
+   "contactSubTitle": "Solicite una demostración personalizada y descubra cómo puede transformar las operaciones de su banco",
+
+   "contactTitleOne":"Demo Personalizada",
+   "contactSubTitleOne":"Presentación adaptada a las necesidades específicas de su institución bancaria",
+
+   "contactTitleTwo":"Análisis Sin Costo",
+   "contactSubTitleTwo":"Evaluación gratuita de sus procesos actuales y oportunidades de mejora",
+
+   "contactTitleThree":"Propuesta Técnica",
+   "contactSubTitleThree":"Plan de implementación detallado con cronograma y especificaciones técnicas",
+
+
+
+   "choose":"----------------",
+    "chooseTitle"        : "Por qué elegirnos",
+    "chooseSubTitleOne"  : "+25 años de experiencia en sistemas bancarios",
+    "chooseSubTitleTwo"  : "Soporte técnico especializado 24/7",
+    "chooseSubTitleThree": "Implementación rápida (30-60 días)",
+    "chooseSubTitleFour" : "Cumplimiento garantizado con normativas",
+    "chooseSubTitleFive" : "ROI comprobado en menos de 6 meses",
+    "chooseSubTitleSix"  : " Solicitar Información",
+    "chooseSubTitleSeven": "Complete el formulario y nos pondremos en contacto inmediatamente",
+
+    "contactForm":"----------------",
+    "contactFormL1":"¿Tienes preguntas? ¡Estamos aquí para ayudarte!",
+    "contactFormL2":"Contáctanos directamente por WhatsApp o por correo electrónico. ¡Te responderemos lo antes posible!",
+    
+    "contactFormL4":"Estados Unidos",
+    "contactFormL5":"España",
+    "contactFormL6":"Correo Electrónico",
+    "contactFormL7":" Al enviar este formulario, acepta ser contactado por nuestro equipo comercial.Sus datos están protegidos según nuestra política de privacidad.",
+    
+     "faqSection":"----------------",
+  
+  "faq": {
+    "title": "Preguntas frecuentes",
+    "subtitle": "Resolvemos las dudas más comunes sobre nuestro Sistema de Cierre Centralizado Bancario",
+
+    "question1": "¿El sistema requiere migración de datos?",
+    "answer1": "No, está diseñado para operar dentro del entorno AS/400 existente sin afectar tu infraestructura actual. El sistema se integra nativamente con sus bases de datos y aplicaciones actuales, permitiendo una implementación sin interrupciones en sus operaciones diarias.",
+
+    "question2": "¿Es compatible con cualquier versión de IBM i?",
+    "answer2": "Sí, funciona con las versiones más utilizadas, desde la 7.2 en adelante. Nuestro sistema ha sido probado y certificado para trabajar con todas las versiones actuales de IBM i, incluyendo las últimas actualizaciones y parches de seguridad.",
+
+    "question3": "¿Ofrecen soporte técnico post-implementación?",
+    "answer3": "Por supuesto, contamos con un equipo especializado disponible 24/7 para resolver cualquier incidencia. Nuestro soporte incluye monitoreo proactivo, actualizaciones automáticas, mantenimiento preventivo y acceso directo a ingenieros especializados en sistemas bancarios.",
+
+    "question4": "¿Cuánto tiempo toma la implementación?",
+    "answer4": "Depende del tamaño del banco, pero en promedio entre 30 y 60 días. Este tiempo incluye: análisis inicial, configuración personalizada, migración de configuraciones, pruebas exhaustivas, capacitación del personal y puesta en producción. Garantizamos una transición sin interrupciones."
+  },	
+
+   "Footer":"----------------",
+   "FooterL1":"Cierre Centralizado Bancario",
+   "FooterL2":"Líderes en soluciones de automatización para sistemas de Cierre Centralizado Bancario.Especializados en integración nativa con IBM Power I para el sector financiero.",
+   "FooterL3":"20+ años de experiencia",
+   "FooterL4":"7+ bancos implementados",
+   "FooterL5":"Certificación IBM Power I",
+   "FooterL6":"Certificación ISO 20022",
+   "FooterL7":"Soporte 24/7",
+   "FooterL8":"Redes Sociales",
+   "FooterL9":"Navegación",
+   "FooterL10":"Inicio",
+   "FooterL11":"Servicios",
+   "FooterL12":"Contacto",
+   "FooterL13":"Politica de Privacidad",
+   "FooterL14":"Recursos",
+   "FooterL15":"Documentación Técnica",
+   "FooterL16":"Casos de Exito",
+   "FooterL17":"Webinars",
+   "FooterL18":"Información de Contacto",
+   "FooterL19":"El Paraiso.Caracas, Venezuela.",
+   "FooterL20":"Movil",
+   "FooterL21":"Contacto",
+   "FooterL22":"Mi Whatsapp",
+   "FooterL23":"Oficina Principal",
+
+   "FooterL24":"Horarios de Atención",
+   "FooterL25":"Lunes - Viernes",
+   "FooterL26":"Soporte Técnico:",
+   "FooterL27":"Emergencias:",
+
+   "FooterL28":"Copyright © 2025 Consulbank | Todos Los Derechos Reservados",
+   "FooterL29":"Términos de Servicio",
+   "FooterL30":"Política de Privacidad",
+   "FooterL31": "Este sitio web utiliza cookies para mejorar su experiencia. Al continuar navegando, acepta el uso de cookies de acuerdo con nuestra política de privacidad.",
+
+   "FootereSpain":"----------------",
+   "FooterL32":"Oficina España", 
+   "FooterL33":"Pozuelo de Alarcón, 28224, Madrid",
+
+   "Certifications":"----------------",
+   "certification1":"Certificaciones y Cumplimiento:",
+   "certification2":"Seguridad de la información:",
+   "certification3":"Estándares de seguridad:",
+   "certification4":"Protección de datos",
+   "certification5":"Cumplimiento regulatorio"
+
+}
+
+
+
+    
+
