@@ -16,7 +16,7 @@ const HeroSection = () => {
   };
 
   return (
-    <section className="relative min-h-screen flex items-center bg-gradient-to-br from-blue-900 via-blue-800 to-slate-900">
+    <section className="relative min-h-screen flex items-center bg-gradient-to-br from-blue-900 via-blue-800 to-slate-900" id="Hero">
       {/* Background Pattern */}
       <div className="absolute inset-0 opacity-30">
         <div className="absolute inset-0 bg-gradient-to-br from-blue-900/20 to-purple-900/20"></div>
@@ -46,7 +46,7 @@ const HeroSection = () => {
                 />
               </a>
             </div>
-
+            
             {/* Menú de navegación */}
             {/*
       <div className="hidden md:flex items-center space-x-8">
@@ -120,7 +120,7 @@ const HeroSection = () => {
 
               {/* WhatsApp - Visible siempre */}
               <a
-                href="https://wa.me/584143162574"
+                href="https://wa.me/13054001178"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center justify-center h-9 w-9 rounded-full bg-white/10 hover:bg-white/20 transition"
@@ -158,7 +158,7 @@ const HeroSection = () => {
 
               <button
                 onClick={handleClick}
-                className="px-4 py-2 bg-blue-600 text-white rounded-md hover:bg-blue-700 transition-colors duration-200"
+                className="px-4 py-2 bg-green-600 text-white rounded-md hover:bg-blue-700 transition-colors duration-200"
               >
                 {t("buttonChangeLanguage")} {/* Traduce el texto del botón */}
               </button>
@@ -209,27 +209,20 @@ const HeroSection = () => {
 
             <div className=" p-4 rounded"> </div>
             <div className=" p-4 rounded"> </div>
-            <div className="relative bg-white/10 backdrop-blur-md rounded-2xl border border-white/20 shadow-2xl p-6 transform hover:scale-105 transition-transform duration-300 space-y-6">
-              {/* Imagen principal */}
-              <img
-                src="/images/compensacioncentralizada.gif"
-                alt="Dashboard del Sistema de Cierre Centralizado"
-                className="w-full h-auto rounded-lg shadow-lg object-contain"
+
+            <video
+              autoPlay
+              controls
+              playsInline
+              className="w-full h-auto rounded-lg shadow-lg object-contain"
+            >
+              <source
+                src="video/clipcierrecentralizadov4.mp4"
+                type="video/mp4"
               />
-
-              {/* Overlay Stats */}
-              <div className="absolute -top-4 -right-4 bg-green-500 text-white px-4 py-2 rounded-full text-sm font-semibold shadow-lg z-10">
-                {t("headerFourOne")}
-              </div>
-
-              <div className="absolute -bottom-4 -left-4 bg-blue-500 text-white px-4 py-2 rounded-full text-sm font-semibold shadow-lg z-10">
-                {t("headerFourTwo")}
-              </div>
-            </div>
-
+              Tu navegador no soporta el elemento de video.
+            </video>
             {/* Floating Elements */}
-
-            <div className="absolute bottom-0 left-0 w-16 h-16 bg-gradient-to-br from-blue-400 to-cyan-500 rounded-full opacity-20 animate-pulse delay-1000"></div>
           </div>
         </div>
       </div>

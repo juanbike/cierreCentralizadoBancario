@@ -103,7 +103,7 @@ const Footer = () => {
 
         {/* WhatsApp - Visible siempre */}
         <a 
-          href="https://wa.me/584143162574"     
+          href="https://wa.me/13054001178"     
           target="_blank" 
           rel="noopener noreferrer" 
           className="flex items-center justify-center h-9 w-9 rounded-full bg-white/10 hover:bg-white/20 transition"
@@ -121,16 +121,16 @@ const Footer = () => {
           <div className="space-y-6">
             <h4 className="text-lg font-semibold">{t('FooterL9')}</h4>
             <nav className="space-y-3">
-              <a href="#inicio" className="block text-gray-300 hover:text-white transition-colors">
+              <a href="#Hero" className="block text-gray-300 hover:text-white transition-colors">
                 {t('FooterL10')}
               </a>
-              <a href="#servicios" className="block text-gray-300 hover:text-white transition-colors">
+              <a href="#problema-solucion" className="block text-gray-300 hover:text-white transition-colors">
                 {t('FooterL11')}
               </a>
-              <a href="#contacto" className="block text-gray-300 hover:text-white transition-colors">
+              <a href="#caracteristicas" className="block text-gray-300 hover:text-white transition-colors">
                  {t('FooterL12')}
               </a>
-              <a href="#" className="block text-gray-300 hover:text-white transition-colors">
+              <a href="#exito" className="block text-gray-300 hover:text-white transition-colors">
                 {t('FooterL13')}
               </a>
             </nav>
@@ -141,9 +141,7 @@ const Footer = () => {
                 <a href="#" className="block text-gray-400 hover:text-gray-300 transition-colors">
                  {t('FooterL15')}
                 </a>
-                <a href="#" className="block text-gray-400 hover:text-gray-300 transition-colors">
-                  {t('FooterL16')}
-                </a>
+                
                 <a href="#" className="block text-gray-400 hover:text-gray-300 transition-colors">
                   {t('FooterL17')}
                 </a>
@@ -172,7 +170,7 @@ const Footer = () => {
                   <p className="text-gray-300 text-sm font-medium"></p>
                   <a 
                   
-                  href="https://wa.me/584143162574"     
+                  href="https://wa.me/13054001178"     
                   target="_blank" 
                   rel="noopener noreferrer" 
                   className="flex items-center justify-center h-9 w-9 rounded-full bg-white/10 hover:bg-white/20 transition"
