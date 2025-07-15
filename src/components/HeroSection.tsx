@@ -217,7 +217,7 @@ const HeroSection = () => {
               className="w-full h-auto rounded-lg shadow-lg object-contain"
             >
               <source
-                src="video/clipcierrecentralizadov4.mp4"
+                src="video/clipcierrecentralizadosintexto.mp4"
                 type="video/mp4"
               />
               Tu navegador no soporta el elemento de video.

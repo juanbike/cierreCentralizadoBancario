@@ -103,31 +103,31 @@
   "keyFeactures------":"----------------",
 
   "features": {
-    "title": "Características principales",
-    "subtitle": "Descubra las principales características que hacen que nuestra solución sea única y potente.",
+    "title": "Beneficios principales",
+    "subtitle": "Descubra las principales beneficios que hacen que nuestra solución sea única y potente.",
     "feature1": {
       "title": "💾 Integración nativa con sistemas IBM Power I",
       "description": "Funciona directamente en su infraestructura existente sin migración de datos ni cambios en su entorno actual."
     },
     "feature2": {
-      "title": "📋 Generación automática de informes detallados y exportables",
-      "description": "Informes completos en múltiples formatos (PDF, Excel, XML) compatibles con las regulaciones bancarias locales e internacionales."
+      "title": "📋 Confianza y estabilidad en el sistema financiero",
+      "description": "El proceso tiene como objetivo principal garantizar la integridad y coherencia de la información financiera a nivel sistémico. El banco central desempeña un rol fundamental en la supervisión del sistema de liquidación y en la garantía de la estabilidad financiera. La integridad del sistema financiero se mantiene intacta."
     },
     "feature3": {
-      "title": "🛡️ Cumplimiento de la Normativa Bancaria y Auditorías",
-      "description": "Diseñado para cumplir con las regulaciones financieras, incluida la trazabilidad completa y registros de auditoría detallados."
+      "title": "🛡️ Reducción del riesgo operacional",
+      "description": "El sistema es un proceso crítico que asegura la cuadratura de todas las transacciones y saldos. En caso de discrepancias, se inicia un proceso para investigarlas y resolverlas."
     },
     "feature4": {
-      "title": "👥 Acceso seguro basado en roles para múltiples usuarios",
-      "description": "Sistema de permisos granular que permite definir roles específicos para diferentes niveles de acceso y responsabilidades."
+      "title": "👥 Protección de activos y datos",
+      "description": "La ciberseguridad es una prioridad máxima para proteger la información y los fondos que se manejan. También se realizan copias de seguridad de todos los datos transaccionales y de cierre para garantizar la recuperación en caso de fallos."
     },
     "feature5": {
-      "title": "📊 Panel de control intuitivo con indicadores clave en tiempo real",
-      "description": "Monitoreo continuo de KPIs bancarios con alertas automáticas y visualización de datos en tiempo real para una toma de decisiones ágil."
+      "title": "📊 Eficiencia en las transacciones",
+      "description": "El proceso de compensación NETEA las transacciones entre bancos para calcular los saldos netos a pagar o recibir, lo que reduce el número de transferencias individuales. EL sistema de liquidación en tiempo real (LBTR) liquidan las transacciones al instante."
     },
     "feature6": {
-      "title": "🔄 Interfaz fácil de usar para usuarios técnicos y no técnicos",
-      "description": "Diseño intuitivo que permite a cualquier usuario operar el sistema de forma eficiente, independientemente de su nivel técnico."
+      "title": "🔄 Transparencia y fiabilidad",
+      "description": "Tanto el sistema centralizado como cada banco generan informes de cierre que resumen la actividad del día, los saldos finales y los ajustes realizados. Estos informes son cruciales para la contabilidad y la auditoría."
     }
   },
 
@@ -252,7 +252,19 @@
     "answer3": "Por supuesto, contamos con un equipo especializado disponible 24/7 para resolver cualquier incidencia. Nuestro soporte incluye monitoreo proactivo, actualizaciones automáticas, mantenimiento preventivo y acceso directo a ingenieros especializados en sistemas bancarios.",
 
     "question4": "¿Cuánto tiempo toma la implementación?",
-    "answer4": "Depende del tamaño del banco, pero en promedio entre 30 y 60 días. Este tiempo incluye: análisis inicial, configuración personalizada, migración de configuraciones, pruebas exhaustivas, capacitación del personal y puesta en producción. Garantizamos una transición sin interrupciones."
+    "answer4": "Depende del tamaño del banco, pero en promedio entre 30 y 60 días. Este tiempo incluye: análisis inicial, configuración personalizada, migración de configuraciones, pruebas exhaustivas, capacitación del personal y puesta en producción. Garantizamos una transición sin interrupciones.",
+
+    "question5": "¿Se puede procesar el Cierre Centralizado más de una vez al día?",
+    "answer5": "Si el sistema esta en la capacidad de recibir cualquier cantidad de operaciones y aplicarle el proceso de conciliación y liquidación en banco central a cualquier hora del dia y las veces que el usuario lo requiera",
+
+    "question6": "¿Se cuenta con reportes de controles que el usuario pueda personalizar  según sus exigencias operativas?",
+    "answer6": "El sistema incluye una serie de reportes predeterminados para cuadres y estadísticas generales. Sin embargo, dado que cada organización posee un proceso operativo único, el usuario tiene la opción de solicitar la inclusión de reportes y consultas adicionales en el sistema, según sus necesidades operativas específicas.",
+
+    "question7": "¿Existen repositorios de las operaciones procesadas en días anteriores?",
+    "answer7": "El sistema permite consultar el detalle del historial de operaciones con una antigüedad de hasta seis meses."
+
+
+
   },	
 
    "Footer":"----------------",
@@ -274,7 +286,7 @@
    "FooterL16":"Casos de Exito",
    "FooterL17":"Webinars",
    "FooterL18":"Información de Contacto",
-   "FooterL19":"El Paraiso.Caracas, Venezuela.",
+   "FooterL19":"Caracas, Venezuela.",
    "FooterL20":"Movil",
    "FooterL21":"Contacto",
    "FooterL22":"Mi Whatsapp",
