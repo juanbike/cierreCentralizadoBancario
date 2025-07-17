@@ -280,77 +280,44 @@ const ContactForm = () => {
               </p>
 
               {/* Botones de contacto */}
-
-              {/* Sección para Estados Unidos */}
-              <div className="mb-6">
-                <h3 className="text-lg font-bold text-gray-800 dark:text-white mb-2">
-                  {t("contactFormL4")}
-                </h3>
+              <div className="text-center">
+                <h3 className="text-lg font-bold text-gray-800 dark:text-white mb-2"></h3>
                 <a
-                  href="https://wa.me/13054001178" // ← Formato internacional para WhatsApp
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="flex items-center gap-2 text-blue-500 hover:text-blue-700 transition-colors duration-300"
-                >
+                    href="https://wa.me/13054001178" // ← Formato internacional para WhatsApp
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="flex flex-col items-center text-blue-500 hover:text-blue-700 transition-colors duration-300 mb-2"
+                  >
                   <img
-                  src="/images/whatsapp.webp"
-                  alt="WhatsApp"
-                  className="h-14 w-14"
-                />
-                  +1 (305) 400 1178
+                    src="/images/whatsapp.webp"
+                    alt="WhatsApp"
+                    className="h-24 w-24 mb-2"
+                  />
+                  {t("contactFormL4")}
                 </a>
               </div>
+              
 
               {/* Sección para España */}
-              <div className="mb-6">
-                <h3 className="text-lg font-bold text-gray-800 dark:text-white mb-2">
-                 {t("contactFormL5")}
-                </h3>
-                <div>
-                  {/* WhatsApp 1 */}
-                  <a
-                    href="https://wa.me/34603036215" // ← Formato internacional para WhatsApp
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="flex items-center gap-2 text-blue-500 hover:text-blue-700 transition-colors duration-300 mb-2"
-                  >
-                    <img
-                  src="/images/whatsapp.webp"
-                  alt="WhatsApp"
-                  className="h-14 w-14"
-                />
-                    +34 603 03 6215
-                  </a>
-
-                  {/* WhatsApp 2 */}
-                  <a
-                    href="https://wa.me/34611543073" // ← Formato internacional para WhatsApp
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="flex items-center gap-2 text-blue-500 hover:text-blue-700 transition-colors duration-300"
-                  >
-                    <img
-                  src="/images/whatsapp.webp"
-                  alt="WhatsApp"
-                  className="h-14 w-14"
-                />
-                    +34 611 54 3073
-                  </a>
-                </div>
-              </div>
+              
 
               {/* Sección para correo electrónico */}
-              <div>
-                <h3 className="text-lg font-bold text-gray-800 dark:text-white mb-2">
-                  {t("contactFormL6")}
-                </h3>
+
+              <div className="text-center">
+                <h3 className="text-lg font-bold text-gray-800 dark:text-white mb-2"></h3>
                 <a
                   href="mailto:info@consulbank.com.ve"
-                  className="text-blue-500 hover:text-blue-700 transition-colors duration-300"
+                  className="text-blue-500 hover:text-blue-700 transition-colors duration-300 flex flex-col items-center"
                 >
-                  info@consulbank.com.ve
+                  <img
+                    src="/images/email.webp"
+                    alt="Email"
+                    className="h-24 w-24 mb-2"
+                  />
+                  {t("contactFormL6")}
                 </a>
               </div>
+              
             </div>
           </section>
         </div>
